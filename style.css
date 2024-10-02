@@ -277,7 +277,7 @@ header .fa-bars {
   padding: 0.7rem 1rem;
   font-size: 2rem;
   color: var(--metal);
-  background: rgba(72, 66, 51, 0.65);
+  background: rgba(182, 1, 16, 0.85);
   z-index: 1;
   border-radius: 0.5rem;
 }
@@ -370,6 +370,7 @@ header .fa-bars {
   font-size: 1.5rem;
   line-height: 1.5;
   padding-top: 2rem;
+  height: 30rem;
 }
 .review .box-container .box .user {
   display: flex;

@@ -545,3 +545,6 @@ header .fa-bars {
   border: solid #111 .1rem ;
   border-radius: 4rem;
 }
+.fa-shopping-cart{
+  cursor: pointer;
+}
